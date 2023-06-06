@@ -1,5 +1,7 @@
 # Business Plan Pro and Sales and Marketing Pro activator.
 
+[Download](https://github.com/cturan/paloaltoactivator/releases/download/x64/activator.exe)
+
 
 Due to retirement, Sales and Marketing Pro (v. 11) and Business Plan Pro (v. 12) software can no longer be activated even if you have a valid serial key.
 
